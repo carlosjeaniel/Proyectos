@@ -1,0 +1,13 @@
+import random
+
+Mi_aficion_favorita = ["Jugar", "descubrir cosas nuevas", "Ver beibol"]
+print(random.choice(Mi_aficion_favorita))
+
+mascota = "Sol y es un yorkshire terrier"
+print("mi mascota se llama", (mascota))
+
+proyecto = "el ultimo que hice"
+print("me gusto mas", (proyecto))
+
+comida = "la pasta"
+print("mi comida fovrita es", (comida))
